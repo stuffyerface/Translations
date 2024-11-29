@@ -1,1 +1,12 @@
-{}
+{
+    "ver1.1.4": "%2$s",
+    "zeronia": "Zeronia",
+    "game.pirate_trader.padding": "󏀠",
+    "game.ready_sign.1": "%1$s",
+    "game.ready_sign.3": "%3$s",
+    "game.ready_sign.4": "%4$s",
+    "book.padding.game_info": "󐀦",
+    "book.padding.how_to_play": "󐀢",
+    "book.padding.trailer": "󐀘",
+    "book.padding.return": "󐀬"
+}
