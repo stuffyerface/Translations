@@ -1,13 +1,13 @@
 ## Zeronia Translation Project
 
-[![Crowdin](https://badges.crowdin.net/crafty-cannoneers/localized.svg)](https://crowdin.com/project/crafty-cannoneers)
+[![Crowdin](https://badges.crowdin.net/zeronia/localized.svg)](https://crowdin.com/project/zeronia)
 
 A live translation manager for the Zeronia Translation Project, allowing for expansion with the addition of future games.
 
 ### Supported Languages
 
 > [!NOTE]
-> Not all of our supported languages may be live on [crowdin](https://crowdin.com/project/crafty-cannoneers) at any given time.
+> Not all of our supported languages may be live on [crowdin](https://crowdin.com/project/zeronia) at any given time.
 
 The following languages are either partially or fully localized.
 
