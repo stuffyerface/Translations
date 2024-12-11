@@ -144,6 +144,7 @@
   "block.purple.danger_sign.2": "POISONOUS",
 
   "entity.purple.clone": "%s's Clone",
+  "entity.purple.unnamed_clone": "Clone",
 
   "advancements.gameplay.root.title": "%s",
   "advancements.gameplay.root.description": "Enjoy the game! :)",
@@ -577,7 +578,7 @@
   "contributor.purple.credit.view_list": "Click to view!",
   "contributor.purple.credit.gratitude": "Thank You!",
   "contributor.purple.credit.line": "%s | %s",
-  "contributor.purple.credit.detailed_line": "%11$s\n%1$s %10$s %5$s %6$s %10$s %12$s\n\n%2$s\n%3$s\n%4$s\n%11$s",
+  "contributor.purple.credit.detailed_line": "%11$s\n%1$s %10$s %5$s%6$s%7$s%8$s%9$s%10$s %12$s\n\n%2$s\n%3$s\n%4$s\n%11$s",
   "contributor.purple.stuffy.title": "Level Designer",
   "contributor.purple.stuffy.credits": "Map Builder\nFurniture Designer\nIdea Haver",
   "contributor.purple.stuffy.credits.1": "• Built all of the maps",
