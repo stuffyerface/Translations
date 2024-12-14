@@ -1,1 +1,9 @@
-{}
+{
+  "item.purple.not_ready": "Cliquez pour annuler",
+  "item.purple.spectate": "Cliquez pour entrer en mode spectateur",
+  "item.purple.spectate_game": "Cliquez pour regarder la partie",
+  "item.purple.trident": "Trident",
+  "item.purple.smoke_bomb": "Bombe Fumigène",
+  "item.purple.antidote": "Antidote",
+  "item.purple.artifact.microscope.name": "Microscope"
+}
