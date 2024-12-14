@@ -284,6 +284,7 @@
     "game.spectating": "%sは現在観戦中です。",
     "game.seagulls": "観戦を止めるにはカモメの輪の中に入ってください！",
     "game.joined": "%1$sは%2$sチームに加わった！",
+    "game.joined.late": "%1$sは%2$s チームに参加した！ 残念ながら到着が遅れた。",
     "game.joined.purple": "パープル",
     "game.joined.orange": "オレンジ",
     "game.take_off": "%sを外すとゲームから離脱できます！",
