@@ -351,7 +351,7 @@
   "book.click": "Click!",
   "book.padding.howtoplay": "   ",
   "book.howtoplay.1": "The first part of the game is called the Preparation Phase. During this phase, an ice wall in the middle of the map prevents combat, and you can place down Snow Barricades in strategic places for when the wall falls.",
-  "book.howtoplay.2": "Hitting enemies with Snowballs makes them colder. When a player gets too cold, they get knocked out, lose their items, and drop an Avalanche Rocket, as well as all the Rockets they were holding.",
+  "book.howtoplay.2": "Hitting enemies with Snowballs makes them colder. When a player gets too cold, they get knocked out, lose their items, and drop an Avalanche Rocket, as well as all the rockets they were holding.",
   "book.howtoplay.3": "Over time, elves place giftboxes around the map that you can click to obtain powerups. Item descriptions tell you what they do. Some powerups can revive knocked out players, giving them back their powerup items.",
   "book.howtoplay.4": "Launch Avalanche Rockets to damage the mountains behind the enemy base. Dealing enough damage will cause an avalanche. Aim for the cracked spots, those do extra damage! When the timer ends, the team that caused the most avalanches wins.",
   "book.padding.credits": "         ",
