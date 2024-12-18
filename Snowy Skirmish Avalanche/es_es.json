@@ -236,7 +236,7 @@
   "secret": "%1$s ¡Esto tiene una probabilidad %2$s de ocurrir!",
   "secret.found": "¡Secreto encontrado!",
   "parkour.new_record": "¡%s ahora tiene el Récord en el Parkour!",
-  "parkour.begin": "¡Circuito del Parkour Comenzado!",
+  "parkour.begin": "¡Circuito de Parkour Iniciado!",
   "parkour.restart": "Reiniciar el Parkour",
   "parkour.quit": "Abandonar el Parkour",
   "parkour.reset_time": "Tiempo del Parkour reiniciado.",
