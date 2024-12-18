@@ -330,5 +330,21 @@
   "book.howtoplay.3": "随着时间的推移, 精灵会将礼品盒放在地图周围, 你可以点击以获得道具. 道具描述将告诉你其作用. 有些道具可以使玩家从击倒状态恢复, 或者是扭转战局.",
   "book.howtoplay.4": "发射雪崩火箭破坏敌方基地后方的山脉. 造成足够的伤害就会引发雪崩. 瞄准裂开的地方, 这些地方会造成额外伤害! 倒计时结束后, 造成雪崩次数最多的队伍获胜.",
   "book.zeroniacredit": "一个Zeronia制作的小游戏",
-  "book.createdby": "作者:"
+  "book.createdby": "作者:",
+  "parkour.display.title": "大厅跑酷",
+  "parkour.display.line1": "用最快速度爬上礼物盒",
+  "parkour.display.line2": "并到达壁炉上方.",
+  "parkour.display.record_holder": "记录持有者:",
+  "parkour.display.current_record": "当前记录:",
+  "parkour.display.global_jumps": "总跳跃次数:",
+  "chat.welcome": "欢迎来到%1$s%2$s%3$s%4$s!",
+  "chat.welcome.snowy": "雪地",
+  "chat.welcome.skirmish": "乱斗",
+  "chat.welcome.two": "2:",
+  "chat.welcome.avalanche": "雪崩",
+  "chat.welcome.point.1": "打开你的 %s 来了解地图内容.",
+  "chat.welcome.point.2": "前往 %s 更改游戏设置.",
+  "chat.welcome.point.3": "点击柱子在大厅四周移动.",
+  "chat.welcome.point.4": "走入传送门以加入队伍.",
+  "chat.welcome.point.5": "最重要的是, 玩的开心! %s"
 }
