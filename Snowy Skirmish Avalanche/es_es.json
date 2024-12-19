@@ -237,7 +237,7 @@
   "error.cannot_spectate": "No se puede observar.",
   "error.already_spectating": "¡Ya estás observando!",
   "error.cannot_leave": "Imposible salirse de la partida.",
-  "error.spectate_bounds": "¡Imposible observar fuera de la arena!",
+  "error.spectate_bounds": "Imposible observar fuera de la arena.",
   "lobby.spectate": "Modo espectador",
   "lobby.join.red": "Unirse al Equipo Rojo",
   "lobby.join.green": "Unirse al Equipo Verde",
