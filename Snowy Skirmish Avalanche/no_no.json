@@ -78,13 +78,11 @@
   "subtitles.parkour.start": "Parkour startet",
   "subtitles.parkour.cancel": "Parkour avbrutt",
   "subtitles.parkour.finish": "Parkour fullført",
+  "container.isLocked": "",
   "block.minecraft.bed.occupied": "",
   "container.spectatorCantOpen": "",
   "mount.onboard": "",
-  "%1$s": "%2$s",
-  "ver1.0.0pre1": "%2$s",
   "game.made_by": "%1$s Laget av %2$s",
-  "zeronia": "Zeronia",
   "lobby.customizer.preptime.line1": "",
   "lobby.customizer.preptime.line2": "Forberedelsestid",
   "lobby.customizer.time.line1": "",
@@ -105,8 +103,8 @@
   "customizer.confirmed": "Innstillinger bekreftet!",
   "customizer.current": "Gjeldende spillinnstillinger",
   "customizer.current_prep_time": "%1$s forberedelsestid: %2$s",
-  "customizer.current_starter_blocks": "%1$s Start-blokker:󐀎%2$s %3$s",
-  "customizer.current_game_time": "%1$s Spilltid:󐀎%2$s",
+  "customizer.current_starter_blocks": "%1$s Start-blokker:\uDB00\uDC15%2$s %3$s",
+  "customizer.current_game_time": "%1$s Spilltid:\uDB00\uDC3A%2$s",
   "customizer.box_owner": "%s kontrollerer spillinnstillingene!",
   "customizer.cancel": "Avbryt kamp",
   "customizer.cancel.available_in": "TILGJENGELIG OM %s",
@@ -209,5 +207,6 @@
   "book.padding.howtoplay": "   ",
   "book.padding.credits": "         ",
   "book.padding.zeroniacredit": "  ",
-  "chat.welcome.point": "%s %s"
+  "chat.welcome.point": "%s %s",
+  "lobby.brought_by": "Brakt til deg av:"
 }
