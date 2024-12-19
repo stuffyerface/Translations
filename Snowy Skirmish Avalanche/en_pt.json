@@ -78,10 +78,6 @@
   "subtitles.game.ready": "Team ready",
   "subtitles.game.not_ready": "Team not ready",
   "subtitles.avalanche.trigger": "AVALANCHE!",
-  "container.isLocked": "",
-  "block.minecraft.bed.occupied": "",
-  "container.spectatorCantOpen": "",
-  "mount.onboard": "",
   "game.made_by": "%1$s Made by %2$s",
   "lobby.customizer.preptime.line2": "Preparation Time",
   "lobby.customizer.time.line2": "Game Time",
@@ -246,5 +242,9 @@
   "parkour.personal_best": "That be a new personal best time!",
   "parkour.time": "Parkour Time: %s",
   "parkour.finished": "%1$s completed th’ Parkour in %2$s!",
+  "tip.tip": "TIP!",
+  "tip.click": "(Click %s t’ disable tips!)",
+  "tip.here": "[HERE]",
+  "tip.here.hover": "Click t’ disable tips!",
   "lobby.brought_by": "Brought t’ ye by:"
 }
