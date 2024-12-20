@@ -155,6 +155,7 @@
   "advancements.gameplay.mission_failed.title": "Misión Fallida",
   "advancements.gameplay.mission_failed.description": "Sucumbe ante la infección",
   "advancements.gameplay.scientific_research.title": "Investigaciones Científicas",
+  "advancements.gameplay.scientific_research.description": "Estudiar todos los 9 artefactos",
   "advancements.gameplay.unless.description": "Gana la partida tras ser revivido",
   "advancements.gameplay.victory_parade.title": "Paraíso de Victorias",
   "advancements.gameplay.victory_parade.description": "Gana con cada Baile de Victoria",
@@ -185,5 +186,15 @@
   "setting.purple.title.stats": "Estadísticas de %s",
   "setting.purple.title.menu": "Ajustes",
   "setting.purple.title.map": "Selector de Mapa",
-  "setting.purple.title.game": "Opciones de juego"
+  "setting.purple.title.game": "Opciones de juego",
+  "setting.purple.title.item": "Ajustes de los Objetos",
+  "setting.purple.title.color": "Elige tu Color",
+  "setting.purple.title.source_ability": "Elige tu Habilidad de Infectado",
+  "setting.purple.title.spectator_ability": "Elige tu Habilidad de Espectador",
+  "setting.purple.title.map_0": "Home Base",
+  "setting.purple.title.map_1": "Scorched Basin",
+  "setting.purple.title.map_2": "Ecos de Impacto",
+  "setting.purple.title.map_3": "Deep Plunge",
+  "setting.purple.description.main": "¡Bienvenido a %s! Una experiencia renovada del clásico de \"pillapilla\". Cuando la partida comienza serás enviado a un terreno alienígena con una misión; ser el último superviviente de la infección %1$s. ¡Buena Suerte!\n\n¡Haz click en la previsualización del mapa a la izquierda del cambio de mapas o haz click en \"Abrir Ajustes\" para cosméticos, ajustes de juego, selección de habilidades y más!",
+  "setting.purple.description.map_0": "Tras muchos años de exploración, encontramos que este área era la más habitable para nuestro campamento base. Los árboles cercanos producen una energía misteriosa que hemos aprovechado con éxito, pero todavía lejos de entenderla. El reactor central usa esta energía para generar un escudo que cubre nuestro campamento, portegiéndonos de cualquier efecto secundario de este ambiénte alienígena."
 }
