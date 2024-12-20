@@ -1,1 +1,26 @@
-{}
+{
+  "subtitles.game.ready": "Team bereit",
+  "subtitles.game.not_ready": "Team nicht bereit",
+  "subtitles.avalanche.trigger": "LAWINE!",
+  "customizer.edit.available_in": "VERFÜGBAR IN %s",
+  "customizer.edit.unavailable": "NICHT VERFÜGBAR",
+  "lobby.wait.join.green": "grüne",
+  "lobby.wait.join.red": "rote",
+  "lobby.joined": "%1$s ist dem %2$s Team beigetreten!",
+  "lobby.joined.late": "%1$s ist dem %2$s Team beigetreten! Leider etwas verspätet.",
+  "lobby.joined.green": "grünen",
+  "lobby.joined.red": "roten",
+  "lobby.left_team": "%s hat das Team verlassen!",
+  "lobby.joined_spectator": "%s schaut dem Spiel nun zu.",
+  "lobby.left_spectator": "%s schaut dem Spiel nicht mehr zu.",
+  "lobby.try_join.imbalanced": "Team unausgeglichen!",
+  "lobby.try_join": "Tritt stattdessen dem %s Team bei.",
+  "lobby.try_join.green": "grünen",
+  "lobby.try_join.red": "roten",
+  "lobby.try_join.full": "Team voll!",
+  "lobby.try_join.watch_game": "Schaue dem Spiel stattdessen gerne zu.",
+  "lobby.marked_ready": "%1$s hat das %2$s Team als %3$s markiert!",
+  "lobby.marked_ready.has_been": "Das %1$s Team wurde als %2$s markiert!",
+  "lobby.marked_ready.green": "grüne",
+  "lobby.marked_ready.red": "rote"
+}
