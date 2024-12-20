@@ -107,5 +107,7 @@
   "item.purple.junk.discarded_fuel_rod": "Barra de combustible Descartada",
   "item.purple.junk.discarded_fuel_rod.1": "Estas son usualmente almacenadas",
   "item.purple.junk.discarded_fuel_rod.2": "responsablemente. Esto debe",
-  "item.purple.junk.discarded_fuel_rod.3": "haber acabado aquí por error."
+  "item.purple.junk.discarded_fuel_rod.3": "haber acabado aquí por error.",
+  "item.purple.junk.lost_soil_sample": "Muestra de Suelo Perdida",
+  "item.purple.treasure.diving_mask": "Gafas de Buceo"
 }
