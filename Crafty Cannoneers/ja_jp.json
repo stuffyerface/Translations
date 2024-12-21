@@ -414,6 +414,7 @@
     "parkour.restart": "パルクールを再スタート",
     "parkour.quit": "パルクールを止める",
     "parkour.reset_time": "パルクールの時間をリセットする。",
+    "parkour.canceled": "パルクールを中断した。",
     "parkour.left_canceled": "あなたはゲームから離脱したので、パルクールランは中断されました。",
     "parkour.personal_best": "自己ベストを更新した！",
     "parkour.time": "パルクール記録: %s",
