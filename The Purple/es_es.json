@@ -90,7 +90,7 @@
   "item.purple.fish.squishscale.3": "menos una vez lo estuvo.",
   "item.purple.fish.crimson_drifter": "Errante Carmesí",
   "item.purple.fish.crimson_drifter.1": "Lo más cercano a",
-  "item.purple.fish.crimson_drifter.2": "su aspecto es una medusa.",
+  "item.purple.fish.crimson_drifter.2": "su aspecto parece una medusa...",
   "item.purple.fish.crimson_drifter.3": "si pudiesen nadar en lava.",
   "item.purple.fish.purple_shellfish": "Marisco morado",
   "item.purple.fish.purple_shellfish.1": "Una concha muy robusta.",
@@ -196,5 +196,6 @@
   "setting.purple.title.map_2": "Ecos de Impacto",
   "setting.purple.title.map_3": "Deep Plunge",
   "setting.purple.description.main": "¡Bienvenido a %s! Una experiencia renovada del clásico de \"pillapilla\". Cuando la partida comienza serás enviado a un terreno alienígena con una misión; ser el último superviviente de la infección %1$s. ¡Buena Suerte!\n\n¡Haz click en la previsualización del mapa a la izquierda del cambio de mapas o haz click en \"Abrir Ajustes\" para cosméticos, ajustes de juego, selección de habilidades y más!",
-  "setting.purple.description.map_0": "Tras muchos años de exploración, encontramos que este área era la más habitable para nuestro campamento base. Los árboles cercanos producen una energía misteriosa que hemos aprovechado con éxito, pero todavía lejos de entenderla. El reactor central usa esta energía para generar un escudo que cubre nuestro campamento, portegiéndonos de cualquier efecto secundario de este ambiénte alienígena."
+  "setting.purple.description.map_0": "Tras muchos años de exploración, encontramos que este área era la más habitable para nuestro campamento base. Los árboles cercanos producen una energía misteriosa que hemos aprovechado con éxito, pero todavía lejos de entenderla. El reactor central usa esta energía para generar un escudo que cubre nuestro campamento, portegiéndonos de cualquier efecto secundario de este ambiente alienígena.",
+  "setting.purple.description.map_1": "Cuando inicialmente se exploraba el planeta como candidato de investigación, este fue la primera prueba de vida extraterrestre que encontramos. Muchas rocas y peñascos están dispersos por aquí, junto con un diverso conjunto de fauna extremadamente resiliente y parece tener muchas propiedades únicas. Uno de los ejemplares ha demostrado más de lo que espramos. Nuestra decisión de empezar aquí es algo que acbamos lamentando."
 }
