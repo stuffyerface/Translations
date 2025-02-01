@@ -115,7 +115,7 @@
   "chat.cannot_edit.second": "今はゲームを中止できません。%s秒後にやり直してください。",
   "chat.cannot_edit.seconds": "今はゲームを中止できません。%s秒後にやり直してください。",
   "chat.cannot_edit.game": "ゲームを中止できません。ゲームは既に進行中です。",
-  "chat.cannot_edit.players": "設定を編集できません。 プレイヤーが既にチームに参加しています。",
+  "chat.cannot_edit.players": "ゲームを中止できません。プレイヤーは既にチームに参加しています。",
   "lobby.wait.join.both": "%1$sチームと%2$sチームのプレイヤーを待っています...",
   "lobby.wait.join.single": "%sチームのプレイヤーを待機中...",
   "lobby.wait.join.green": "緑",
