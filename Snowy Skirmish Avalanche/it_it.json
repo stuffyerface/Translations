@@ -1,1 +1,6 @@
-{}
+{
+  "knockout.attack.direct": "%1$s è stato buttato fuori da %2$s!",
+  "knockout.attack.blizzard": "%1$s è stato buttato fuori dalla Bufera di %2$s!",
+  "knockout.attack.snowman": "%1$s è stato buttato fuori dal Pupazzo di Neve di %2$s!",
+  "knockout.avalanche": "%1$s è stato buttato fuori durante una Valanga!"
+}
