@@ -279,7 +279,7 @@
   "setting.purple.button.source_ability.corruption.name": "腐化增长",
   "setting.purple.button.source_ability.corruption.desc": "在自己和附近 %s 名玩家的周围传播腐化方块, 持续 %s 秒",
   "setting.purple.button.source_ability.corruption.desc.1": "在自己和附近 %s 名玩家的周围",
-  "setting.purple.button.source_ability.corruption.desc.2": "向四周传播腐化方块",
+  "setting.purple.button.source_ability.corruption.desc.2": "于自己和附近 %s 名玩家的周围传播",
   "setting.purple.button.source_ability.corruption.desc.3": "持续 %s 秒",
   "setting.purple.button.source_ability.reach.name": "长臂",
   "setting.purple.button.source_ability.reach.desc": "使你的攻击范围翻倍, 持续 %s 秒",
