@@ -356,6 +356,8 @@
   "setting.purple.stat.infection_passed": "传递感染:",
   "setting.purple.stat.used_elevator": "已使用电梯:",
   "setting.purple.stat.found_items": "找到道具:",
+  "setting.purple.title.victory_dance": "选择你的胜利舞蹈",
+  "setting.purple.title.death_effect": "选择你的死亡效果",
   "message.purple.modified_setting.title": "修改设置",
   "message.purple.modified_setting.round_length": "回合长度",
   "message.purple.modified_setting.round_length.minute": "分钟",
