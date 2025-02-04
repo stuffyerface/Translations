@@ -366,6 +366,9 @@
   "setting.purple.stat.used_elevator": "Used Elevator:",
   "setting.purple.stat.found_items": "Items Found:",
   "setting.purple.stats_board": "%s\n\n%s\n\n%s\n\n%s\n\n%s\n\n%s",
+  "setting.purple.title.victory_dance": "Choose Your Victory Dance",
+  "setting.purple.title.death_effect": "Choose Your Death Effect",
+
   "message.purple.modified_setting.title": "Modified Settings",
   "message.purple.modified_setting.line": "• %s: %s",
   "message.purple.modified_setting.line2": "• %s: %s (%s)",
