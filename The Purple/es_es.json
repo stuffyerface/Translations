@@ -342,6 +342,8 @@
   "setting.purple.stat.infection_passed": "Infecciones Superadas:",
   "setting.purple.stat.used_elevator": "Veces usadas el Ascensor:",
   "setting.purple.stat.found_items": "Objetos Encontrados:",
+  "setting.purple.title.victory_dance": "Elige tu Baile de Victoria",
+  "setting.purple.title.death_effect": "Elige tu Efecto de Muerte",
   "message.purple.modified_setting.title": "Ajustes Modificados",
   "message.purple.modified_setting.round_length": "Longitud de la Ronda",
   "message.purple.modified_setting.round_length.minute": "minuto",

@@ -343,6 +343,8 @@
   "setting.purple.stat.infection_passed": "Infezioni Passate:",
   "setting.purple.stat.used_elevator": "Ascensore Usato:",
   "setting.purple.stat.found_items": "Oggetti Trovati:",
+  "setting.purple.title.victory_dance": "Scegli la tua Danza della Vittoria",
+  "setting.purple.title.death_effect": "Scegli il tuo Effetto Morte",
   "message.purple.modified_setting.title": "Impostazioni Modificate",
   "message.purple.modified_setting.round_length": "Lunghezza Turno",
   "message.purple.modified_setting.round_length.minute": "minuto",
