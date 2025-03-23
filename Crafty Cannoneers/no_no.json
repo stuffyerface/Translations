@@ -412,6 +412,8 @@
     "parkour.new_record": "%s har nå parkour-rekorden!",
     "parkour.restart": "Restart Parkour",
     "parkour.quit": "Avslutt Parkour",
+    "parkour.reset_time": "Parkourtid nullstilt.",
+    "parkour.canceled": "Parkourløp avbrutt.",
     "parkour.left_canceled": "Du forlot spillet, så prakour-løpet ditt ble avbrutt.",
     "parkour.personal_best": "Det er en ny personlig rekord!",
     "parkour.time": "Parkourtid: %s",
