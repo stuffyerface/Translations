@@ -1,1 +1,16 @@
-{}
+{
+  "advancements.easteregg.mc-222492.title": "MC-222492",
+  "advancements.easteregg.mc-222492.description": "Hey! Schildkröteneier zertrampeln ist fies!",
+  "contributor.purple.lang.de_de": "Deutsch-Übersetzer",
+  "contributor.purple.lang.es_es": "Spanisch-Übersetzer",
+  "contributor.purple.lang.fr_fr": "Französisch-Übersetzer",
+  "contributor.purple.lang.it_it": "Italienisch-Übersetzer",
+  "contributor.purple.lang.ja_jp": "Japanisch-Übersetzer",
+  "contributor.purple.lang.ko_kr": "Koreanisch-Übersetzer",
+  "contributor.purple.lang.nl_nl": "Niederländisch-Übersetzer",
+  "contributor.purple.lang.no_no": "Norwegisch-Übersetzer",
+  "contributor.purple.lang.ru_ru": "Russisch-Übersetzer",
+  "enchantment.level.50": "L",
+  "enchantment.level.100": "C",
+  "enchantment.level.1000": "M"
+}
