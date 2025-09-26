@@ -385,6 +385,7 @@
   "message.purple.modified_setting.plus": "+",
   "message.purple.modified_setting.hits": "命中次数",
   "message.purple.modified_setting.blocks": "方块",
+  "message.purple.lobby.first_join": "欢迎来到 %s! 一个即新鲜又经典的标记游戏. 游戏开始后, 你将被带到一个外星世界, 目标只有一个: 成为 %1$s 感染下活到最后的幸存者. 祝你好运!\n\n点击左侧的地图可更改地图, 或点击 \"打开设置\" 以查看装饰, 游戏设置, 能力选择等！",
   "message.purple.lobby.artifact_display.empty": "一个空的基座, 也许可以放一些特别的东西?",
   "message.purple.lobby.lost_artifact.nearby": "一个文物在附近!",
   "message.purple.lobby.lost_artifact.already_found": "这件文物被别人拿走了!",
