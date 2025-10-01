@@ -488,7 +488,7 @@
   "message.purple.corrupted.environment": "¡%s ha sido §5infectado§r por el entorno!",
   "message.purple.corrupted.round.chat": "¡%s ha sido §5infectado§r con %2$s!",
   "message.purple.corrupted.round.actionbar": "¡Has sido §5infectado§r por %s!",
-  "message.purple.corrupted.offline": "\n¡Mientras no estabas, alguien te ha corrompido con %s!",
+  "message.purple.corrupted.offline": "\n¡Mientras no estabas, alguien te ha corrompido con %s!\n",
   "message.purple.spectate.title": "Modo Espectador",
   "message.purple.spectate.subtitle": "%s para volver a la partida",
   "message.purple.spectate.chat": "¡Haz click aquí para volver al juego!",
