@@ -487,6 +487,7 @@
   "message.purple.death.actionbar": "ゲームを観戦しています。",
   "message.purple.death.saved": "%2$sは%1$sに助けられた。",
   "message.purple.death.saved.attacked": "%2$sは%1$sに%3$sから救われた！",
+  "message.purple.reduce_timer": "%3$s 時間が%s ラウンド %sに減少しました！",
   "message.purple.reduce_timer.hover": "%sから%sまで、それは%sです！",
   "message.purple.corrupted.double_tap": "%1$sを%2$s回攻撃すると感染時間が延長されます！",
   "message.purple.corrupted.triple_tap": "%1$sを%2$s回攻撃すると感染力が増加します！",
