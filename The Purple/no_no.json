@@ -1,1 +1,16 @@
-{}
+{
+  "item.purple.ready": "Klikk for å bli klar!",
+  "item.purple.not_ready": "Klikk for å avbryte",
+  "item.purple.lobby": "Klikke for å returnere til leiren",
+  "item.purple.spectate": "Klikk for å gå i tilskuermodus",
+  "item.purple.spectate_game": "Klikk for å se på spillet",
+  "item.purple.translate_book": "Oversettelsesbok",
+  "item.purple.knockback_slimeball": "Yeet!",
+  "item.purple.sharp_pufferfish": "Au!",
+  "item.purple.edible_horse": "Hvor sulten?",
+  "item.purple.space_helmet": "Astronauthjelm",
+  "item.purple.super_fishing_rod": "nightlibra's fiskestang",
+  "item.purple.rock": "Stein",
+  "item.purple.small_mushroom": "Krympesopp",
+  "item.purple.chorus_fruit": "Øyeblikkelig refrengfrukt"
+}
