@@ -284,5 +284,6 @@
   "message.purple.ready": "%s§7/§r%s Players be ready",
   "message.purple.locked_to_dead_players": "Ye can't use tis while dead!",
   "scoreboard.purple.lobby.ready.1": "%s pirates",
+  "scoreboard.purple.lobby.total_deaths": "pirates died",
   "scoreboard.purple.game.stats": "Pirate Stats"
 }
