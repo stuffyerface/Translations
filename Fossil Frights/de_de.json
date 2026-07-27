@@ -1,1 +1,19 @@
-{}
+{
+  "ff.pack.description.1": "Fossil Frights\n",
+  "ff.pack.description.2": "Offizielles Ressourcenpaket",
+  "ff.messages.info.entering_museum": "%s betritt das Museum.",
+  "ff.messages.info.up_next": "Du bist dran. Bestätige innerhalb von %ss",
+  "ff.messages.info.party_joined": "%s ist der Party beigetreten!",
+  "ff.messages.info.party_left": "%s hat die Party verlassen.",
+  "ff.messages.info.party_mode_activated": "%s hat den Partymodus aktiviert. Die Türen sind nun geöffnet!",
+  "ff.messages.info.now_spectating": "%s schaut nun zu.",
+  "ff.messages.info.settings.music.on": "An",
+  "ff.messages.info.settings.music.off": "Aus",
+  "ff.messages.warning.idle_warning_one_minute": "Du hast 1 Minute, um den nächsten Tag zu starten, sonst endet das Spiel.",
+  "ff.messages.warning.idle_warning_ten_seconds": "Du hast 10 Sekunden, um den nächsten Tag zu starten, sonst endet das Spiel.",
+  "ff.messages.warning.idle_warning_two_minutes": "Du hast 2 Minuten, um den nächsten Tag zu starten, sonst endet das Spiel.",
+  "ff.messages.warning.invite_expired": "Diese Einladung ist nicht mehr gültig.",
+  "subtitles.fossil_frights.front_door_close": "Museumstür schließt",
+  "subtitles.fossil_frights.hazards.lights": "Lichter gehen aus",
+  "subtitles.fossil_frights.hazards.breaker_close": "Sicherungskasten schließt"
+}
