@@ -28,7 +28,6 @@
   "ff.messages.info.victory_leave.loser": "You did not do good. Bye in 30.",
   "ff.messages.info.victory_leave.winner": "You did good. Bye in 30.",
   "ff.messages.info.settings": "%1$s: %2$s %3$s",
-  "ff.messages.info.settings.setting_status": "(Now: %s)",
   "ff.messages.info.settings.invite_terminal": "Portal",
   "ff.messages.info.settings.invite_terminal.description": "Bone Scares for two. All do the jobs or bye. Use portal to find friend or /%s.",
   "ff.messages.info.settings.invite_terminal.more": "No points with friend but there is a two friend points in /%s",
