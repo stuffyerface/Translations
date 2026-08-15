@@ -27,7 +27,6 @@
   "ff.messages.info.victory_leave.loser": "次は頑張ってください。ゲームは30秒後にリセットされます。",
   "ff.messages.info.victory_leave.winner": "おめでとうございます。ゲームは30秒後にリセットされます。",
   "ff.messages.info.settings": "%1$s: %2$s %3$s",
-  "ff.messages.info.settings.setting_status": "(現在: %s)",
   "ff.messages.info.settings.invite_terminal": "招待ターミナル",
   "ff.messages.info.settings.speedrun": "スピードラン",
   "ff.messages.info.settings.speedrun.description": "各日の終了時に画面にスピードランのタイム差(デルタ)を表示し、プレイ時間の把握やスピードランの改善に役立てることができます。",
