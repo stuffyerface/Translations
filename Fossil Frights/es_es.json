@@ -28,7 +28,6 @@
   "ff.messages.info.victory_leave.loser": "Buena suerte la próxima. El juego se reiniciará en 30 segundos.",
   "ff.messages.info.victory_leave.winner": "Felicidades. El juego se reiniciará en 30 segundos.",
   "ff.messages.info.settings": "%1$s: %2$s%3$s",
-  "ff.messages.info.settings.setting_status": "(Actual: %s)",
   "ff.messages.info.settings.invite_terminal": "Terminal de invitaciones",
   "ff.messages.info.settings.invite_terminal.description": "Fossil Frights admite partidas en pareja, dos personas, mismas tareas, mismos temporizadores. Invítalos a través de la terminal o /%s.",
   "ff.messages.info.settings.invite_terminal.more": "Las partidas en pareja no cuentan a tu mejor tiempo personal o la tabla de clasificación, sino en tu Mejor Tiempo (Pareja) en /%s ",
