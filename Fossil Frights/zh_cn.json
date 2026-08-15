@@ -28,7 +28,6 @@
   "ff.messages.info.victory_leave.loser": "也许下次运气会更好。游戏将在 30 秒后重置。",
   "ff.messages.info.victory_leave.winner": "恭喜你。游戏将在 30 秒后重置。",
   "ff.messages.info.settings": "%1$s: %2$s %3$s",
-  "ff.messages.info.settings.setting_status": "(最新： %s)",
   "ff.messages.info.settings.invite_terminal": "邀请终端",
   "ff.messages.info.settings.invite_terminal.description": "化石惊悚夜支持双人挑战模式，意味着两名玩家将拥有相同的任务和相同的计时器。通过终端或 /%s 邀请他们。",
   "ff.messages.info.settings.invite_terminal.more": "双人挑战不会计入你的个人最佳时间或排行榜成绩，而会记录为你的**双人最佳时间**，可在 /%s 中查看",
