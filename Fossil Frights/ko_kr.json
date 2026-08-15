@@ -28,7 +28,6 @@
   "ff.messages.info.victory_leave.loser": "다음에는 더 운이 좋길 바랍니다. 게임이 30초 후에 리셋됩니다.",
   "ff.messages.info.victory_leave.winner": "축하합니다. 게임이 30초 후에 리셋됩니다.",
   "ff.messages.info.settings": "%1$s: %2$s %3$s",
-  "ff.messages.info.settings.setting_status": "(현재: %s)",
   "ff.messages.info.settings.invite_terminal": "초대 터미널",
   "ff.messages.info.settings.invite_terminal.description": "화석 공포는 듀오 런을 지원합니다. 두 사람이 같은 작업, 같은 타이머를 공유하죠. 터미널 또는 /%s를 통해 초대하세요.",
   "ff.messages.info.settings.invite_terminal.more": "듀오 런은 개인 최고 시간이나 리더보드에 반영되지 않으며, 대신 /%s의 듀오 최고 시간에 반영됩니다.",
