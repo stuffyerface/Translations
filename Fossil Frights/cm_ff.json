@@ -715,4 +715,7 @@
   "ff.lobby.sulfur_strikers.cyan_score": "Cyan: %s",
   "ff.lobby.sulfur_strikers.yellow_scored": "Yellow rock good",
   "ff.lobby.sulfur_strikers.cyan_scored": "Cyan rock good"
+  "language.name": "Cave Man",
+  "language.region": "Fossil Frights",
+  "language.code": "cm_ff"
 }
