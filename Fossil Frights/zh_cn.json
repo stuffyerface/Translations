@@ -190,6 +190,8 @@
   "subtitles.fossil_frights.heists.highlight_thief": "摄像机快门声",
   "subtitles.fossil_frights.vending_machine.refill": "自动售货机补货",
   "subtitles.fossil_frights.heists.loot_capture": "战利品已获取",
+  "subtitles.fossil_frights.heists.loot_secured": "战利品已保管",
+  "subtitles.fossil_frights.heists.loot_unsecuring": "正在解除战利品保管",
   "ff.day_count.day": "第 %s 天",
   "ff.day_count.complete": "完成第 %s 天",
   "ff.advancement.progression": "进度",
@@ -2146,7 +2148,5 @@
   "ff.task_book.task.water_crops.description.0": "你能给遗迹小径展区里、丛林神庙旁边的农作物浇水吗？拿一个水球并丢到农作物上。",
   "ff.actionbar.heists.loot_security.already_secured": "已经保管",
   "ff.actionbar.heists.loot_security.recently_secured": "刚刚保管过",
-  "ff.actionbar.heists.loot_security.in_progress": "已有保安正在保管……",
-  "subtitles.fossil_frights.heists.loot_secured": "战利品已保管",
-  "subtitles.fossil_frights.heists.loot_unsecuring": "正在解除战利品保管"
+  "ff.actionbar.heists.loot_security.in_progress": "已有保安正在保管……"
 }
