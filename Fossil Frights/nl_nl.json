@@ -1,4 +1,14 @@
 {
+  "ff.messages.info.entering_museum": "%s betreedt het museum.",
+  "ff.messages.info.up_next": "Jij bent de volgende. Bevestig in %ss",
+  "ff.messages.info.victory_leave_prompt": "Gefeliciteerd. Het spel wordt over 30 seconden teruggezet. %s",
+  "ff.messages.info.modified_the_run": "%s heeft het spel aangepast.",
+  "ff.messages.info.join_team": "%1$s heeft zich bij de %2$s aangesloten.",
+  "ff.messages.info.join_random": "%1$s is willekeurig toegewezen aan de %2$s.",
+  "ff.messages.info.team.guards": "Bewakers",
+  "ff.messages.info.team.thieves": "Dieven",
+  "ff.messages.info.team_ready": "De %s zijn klaar om te spelen.",
+  "ff.messages.info.team_unready": "De %s zijn niet langer klaar om te spelen.",
   "ff.messages.info.settings.music.on": "Aan",
   "ff.sign.mezzanine.cotton_candy.3": ""
 }
