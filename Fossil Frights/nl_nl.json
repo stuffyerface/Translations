@@ -1,14 +1,22 @@
 {
-  "ff.messages.info.entering_museum": "%s betreedt het museum.",
-  "ff.messages.info.up_next": "Jij bent de volgende. Bevestig in %ss",
-  "ff.messages.info.victory_leave_prompt": "Gefeliciteerd. Het spel wordt over 30 seconden teruggezet. %s",
-  "ff.messages.info.modified_the_run": "%s heeft het spel aangepast.",
+  "effect.minecraft.luck": "Dubbele Sprong",
+  "ff.pack.description.1": "Fossil Frights\n",
+  "ff.pack.description.2": "Officieel Bronpakket",
+  "ff.messages.info.entering_museum": "%s gaat het museum in.",
+  "ff.messages.info.up_next": "Je bent de volgende. Bevestig in %ss",
+  "ff.messages.info.victory_leave_prompt": "Gefeliciteerd! Het spel wordt over 30 seconden teruggezet. %s",
+  "ff.messages.info.watch_tutorial": "Bekijk de ingebouwde tutorial voor een introductie van het spel! %s",
+  "ff.messages.info.modified_the_run": "%s heeft de ronde bewerkt.",
+  "ff.messages.info.enabled_heists": "%s heeft Fossil Heists geselecteerd. Sluit je aan bij een team naar keuze en druk op start zodra jullie klaar zijn om te beginnen.",
   "ff.messages.info.join_team": "%1$s heeft zich bij de %2$s aangesloten.",
   "ff.messages.info.join_random": "%1$s is willekeurig toegewezen aan de %2$s.",
   "ff.messages.info.team.guards": "Bewakers",
   "ff.messages.info.team.thieves": "Dieven",
   "ff.messages.info.team_ready": "De %s zijn klaar om te spelen.",
   "ff.messages.info.team_unready": "De %s zijn niet langer klaar om te spelen.",
+  "ff.messages.info.player_left": "%s heeft het museum verlaten.",
+  "ff.messages.info.invited_by": "Je bent uitgenodigd door %s.",
   "ff.messages.info.settings.music.on": "Aan",
-  "ff.sign.mezzanine.cotton_candy.3": ""
+  "ff.sign.mezzanine.cotton_candy.3": "",
+  "ff.settings.hover.heists_only": "Alleen Heists, sla voor informatie"
 }
