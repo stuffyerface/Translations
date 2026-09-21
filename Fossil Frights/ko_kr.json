@@ -692,8 +692,6 @@
   "ff.sign.foyer.prehistoric_coconut.1": "선사 시대",
   "ff.sign.foyer.prehistoric_coconut.2": "코코넛",
   "ff.sign.foyer.brontosaurus_tooth.2": "이빨",
-  "ff.sign.foyer.anklyosaurus_plate.1": "안킬로사우루스",
-  "ff.sign.foyer.anklyosaurus_plate.2": "판",
   "ff.sign.foyer.stegosaurus_scale.1": "스테고사우루스",
   "ff.sign.foyer.stegosaurus_scale.2": "비늘",
   "ff.sign.foyer.fossilized_dimetrodon_egg.1": "화석화된",
@@ -1200,5 +1198,7 @@
   "ff.lobby.sulfur_strikers.yellow_score": "노랑: %s",
   "ff.lobby.sulfur_strikers.cyan_score": "청록: %s",
   "ff.lobby.sulfur_strikers.yellow_scored": "노랑이 점수를 획득했습니다",
-  "ff.lobby.sulfur_strikers.cyan_scored": "청록이 점수를 획득했습니다"
+  "ff.lobby.sulfur_strikers.cyan_scored": "청록이 점수를 획득했습니다",
+  "ff.sign.foyer.ankylosaurus_plate.1": "안킬로사우루스",
+  "ff.sign.foyer.ankylosaurus_plate.2": "판"
 }
