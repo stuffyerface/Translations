@@ -13,6 +13,7 @@
   "ff.messages.info.team.guards": "Bewakers",
   "ff.messages.info.team.thieves": "Dieven",
   "ff.messages.info.fossil_heists_started": "Fossil Heists is begonnen",
+  "ff.messages.info.custom_day_complete": "Aangepaste dag voltooid",
   "ff.messages.info.team_ready": "De %s zijn klaar om te spelen.",
   "ff.messages.info.team_unready": "De %s zijn niet langer klaar om te spelen.",
   "ff.messages.info.player_left": "%s heeft het museum verlaten.",
