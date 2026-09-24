@@ -91,7 +91,7 @@
   "ff.messages.warning.party_mode.2": "Samen Spelen kan alleen tussen twee dagen ingeschakeld worden.",
   "ff.messages.warning.party_mode.3": "Samen Spelen moet ingeschakeld zijn voordat Dag 1 begint.",
   "ff.messages.warning.afk": "Je was voor meer dan 1 minuut afwezig. Het spel gaat door met de volgende speler in de rij.",
-  "ff.messages.warning.another_player_already_set": "Een andere speler is al actief.",
+  "ff.messages.warning.another_player_already_set": "Een andere speler is al bezig.",
   "ff.messages.warning.already_active": "Je bent al in het museum.",
   "ff.messages.warning.already_in_queue": "Je staat al in de rij.",
   "ff.messages.warning.already_on_team": "Je zit al bij dat team.",
@@ -119,6 +119,9 @@
   "ff.messages.warning.final_day_reached": "Dag 10 is al de laatste dag.",
   "ff.messages.warning.game_in_progress": "Spel aan de gang.",
   "ff.messages.warning.heists_add_loot_not_implemented": "Het toevoegen van buit is nog niet geïmplementeerd.",
+  "ff.messages.warning.heists_already_enabled": "Fossil Heists is al ingeschakeld voor deze ronde.",
+  "ff.messages.warning.heists_enable_after_start": "Fossil Heists kan alleen worden ingeschakeld nadat een ronde is begonnen.",
+  "ff.messages.warning.heists_enable_before_day": "Fossil Heists moet ingeschakeld zijn voordat Dag 1 begint.",
   "ff.sign.mezzanine.cotton_candy.3": "",
   "ff.settings.hover.heists_only": "Alleen Heists, sla voor informatie"
 }
