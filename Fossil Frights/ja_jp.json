@@ -5,6 +5,8 @@
   "ff.messages.info.up_next": "あなたの番です。%s秒以内に確認してください",
   "ff.messages.info.victory_leave_prompt": "おめでとうございます。ゲームは30秒後にリセットされます。%s",
   "ff.messages.info.watch_tutorial": "ゲーム内のチュートリアルを見て始めましょう！ %s",
+  "ff.messages.info.lobby_game.ant_fight": "アントファイトは2人以上で遊べるPvPゲームです。3つの入り口のいずれかからアリ塚に入り、友達に向かって葉っぱを投げつけて、アリのスコアを稼ぎましょう。",
+  "ff.messages.info.lobby_game.sulfur_strikers": "サルファーストライカーズは、2人以上でプレイするスポーツ系ボールゲームです。サルファーキューブを相手のゴールに入れて、得点を競い合います。",
   "ff.messages.info.modified_the_run": "%sがランを変更しました。",
   "ff.messages.info.enabled_heists": "%sは化石盗みを有効にしました。好きなチームに入り、始める準備ができたらスタートを押してください。",
   "ff.messages.info.join_team": "%1$sが%2$sに加わった。",
