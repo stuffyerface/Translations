@@ -379,7 +379,6 @@
   "ff.item.trap_antigravity": "반중력 함정",
   "ff.item.trap_jelly": "물감 함정",
   "ff.item.trap_explosive": "폭발 함정",
-  "ff.item.trap.description.1": "%1$s로 함정을 설치합니다. %2$s로 함정을 전환합니다.",
   "ff.item.trap_glow.description.2": "도둑을 10초간 발광시킵니다.",
   "ff.item.trap_glow.description.3": "경비에게 보이며, 저주 동안 도둑에게도 보입니다. 2초 쿨타임.",
   "ff.item.trap_freeze.description.2": "도둑을 2.5초간 얼음에 가둡니다.",
