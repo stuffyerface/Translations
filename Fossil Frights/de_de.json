@@ -51,7 +51,6 @@
   "ff.messages.warning.cannot_leave_not_active": "Du kannst das Spiel nicht verlassen, weil du nicht der aktive Spieler bist.",
   "ff.messages.warning.cannot_spawn_while_active": "Du kannst /spawn jetzt nicht verwenden. Benutze /leave, um dein Spiel zu verlassen.",
   "ff.messages.warning.cannot_spectate_while_active": "Du kannst nicht zuschauen, während du der aktive Spieler bist.",
-  "ff.messages.warning.cannot_start_while_spectating": "Du kannst das Spiel nicht starten, während du zuschaust.",
   "ff.messages.warning.final_day_reached": "Tag 10 ist bereits der letzte Tag.",
   "ff.messages.warning.must_invite_before_starting_game": "Du musst einen Spieler einladen, bevor du das Spiel startest.",
   "ff.messages.warning.not_active_player": "Du bist nicht der aktive Spieler.",
