@@ -1028,10 +1028,6 @@
   "ff.sign.aquatic.nautilus_and_tube_dudes.1": "鹦鹉螺与",
   "ff.sign.aquatic.nautilus_and_tube_dudes.2": "管虫",
   "ff.sign.aquatic.nautilus_and_tube_dudes.3": "",
-  "ff.sign.aquatic.golden_shark.0": "",
-  "ff.sign.aquatic.golden_shark.1": "黄金鲨鱼",
-  "ff.sign.aquatic.golden_shark.2": "",
-  "ff.sign.aquatic.golden_shark.3": "",
   "ff.sign.aquatic.tide_pool_touch_tank.0": "",
   "ff.sign.aquatic.tide_pool_touch_tank.1": "潮汐池",
   "ff.sign.aquatic.tide_pool_touch_tank.2": "触摸水箱",
@@ -2176,5 +2172,9 @@
   "ff.item.ancient_portal_core": "远古传送门核心",
   "ff.item.fossilized_trilobite": "三叶虫化石",
   "ff.item.empty_popcorn_bucket": "空爆米花桶",
-  "ff.item.golden_t_rex_plushie": "黄金霸王龙毛绒玩偶"
+  "ff.item.golden_t_rex_plushie": "黄金霸王龙毛绒玩偶",
+  "ff.sign.aquatic.gold_shark.0": "",
+  "ff.sign.aquatic.gold_shark.1": "黄金鲨鱼",
+  "ff.sign.aquatic.gold_shark.2": "",
+  "ff.sign.aquatic.gold_shark.3": ""
 }
