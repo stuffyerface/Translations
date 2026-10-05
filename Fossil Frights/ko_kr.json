@@ -276,9 +276,7 @@
   "ff.item.ancient_scripture": "고대 경전",
   "ff.item.chondrite": "콘드라이트",
   "ff.item.sand_dollar": "모래 달러",
-  "ff.item.trilobite_fossil": "화석 삼엽충",
   "ff.item.golden_sword": "금 검",
-  "ff.item.portal_core": "고대 차원문 코어",
   "ff.item.febreeze_rod": "페브리즈 막대",
   "ff.item.fertilizer": "비료",
   "ff.item.water_balloon": "물 풍선",
@@ -292,7 +290,6 @@
   "ff.item.fish_food": "물고기 먹이",
   "ff.item.copper_shuffle": "구리 셔플",
   "ff.item.instant_coffee": "인스턴트 커피",
-  "ff.item.empty_popcorn": "빈 팝콘통",
   "ff.item.pink_jelly": "분홍 젤리",
   "ff.item.leather": "가죽",
   "ff.item.brush": "솔",
@@ -330,7 +327,6 @@
   "ff.item.vault": "금고",
   "ff.item.velociraptor_statue": "벨로키랍토르",
   "ff.item.microfiber_cloth": "극세사 천",
-  "ff.item.gold_t_rex_plushie": "황금 티라노 봉제인형",
   "ff.item.plesiosaur_plushie": "플레시오사우루스 봉제인형",
   "ff.item.pterodactyl_plushie": "프테로닥틸루스 봉제인형",
   "ff.item.sniffer_plushie": "스니퍼 봉제인형",
@@ -1192,5 +1188,9 @@
   "ff.lobby.sulfur_strikers.yellow_score": "노랑: %s",
   "ff.lobby.sulfur_strikers.cyan_score": "청록: %s",
   "ff.lobby.sulfur_strikers.yellow_scored": "노랑이 점수를 획득했습니다",
-  "ff.lobby.sulfur_strikers.cyan_scored": "청록이 점수를 획득했습니다"
+  "ff.lobby.sulfur_strikers.cyan_scored": "청록이 점수를 획득했습니다",
+  "ff.item.ancient_portal_core": "고대 차원문 코어",
+  "ff.item.fossilized_trilobite": "화석 삼엽충",
+  "ff.item.empty_popcorn_bucket": "빈 팝콘통",
+  "ff.item.golden_t_rex_plushie": "황금 티라노 봉제인형"
 }
