@@ -707,7 +707,6 @@
   "ff.sign.aquatic.plesiosaur.1": "플레시오사우루스",
   "ff.sign.aquatic.nautilus_and_tube_dudes.1": "앵무조개와",
   "ff.sign.aquatic.nautilus_and_tube_dudes.2": "관벌레",
-  "ff.sign.aquatic.golden_shark.1": "황금 상어",
   "ff.sign.aquatic.tide_pool_touch_tank.1": "조수 웅덩이",
   "ff.sign.aquatic.tide_pool_touch_tank.2": "터치 탱크",
   "ff.sign.aquatic.ocean_depth_map.sunlight_zone.0": "해수면",
@@ -1192,5 +1191,6 @@
   "ff.item.ancient_portal_core": "고대 차원문 코어",
   "ff.item.fossilized_trilobite": "화석 삼엽충",
   "ff.item.empty_popcorn_bucket": "빈 팝콘통",
-  "ff.item.golden_t_rex_plushie": "황금 티라노 봉제인형"
+  "ff.item.golden_t_rex_plushie": "황금 티라노 봉제인형",
+  "ff.sign.aquatic.gold_shark.1": "황금 상어"
 }
