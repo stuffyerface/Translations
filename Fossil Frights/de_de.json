@@ -399,10 +399,6 @@
   "ff.sign.aquatic.plesiosaur.1": "Plesiosaurier",
   "ff.sign.aquatic.plesiosaur.2": "",
   "ff.sign.aquatic.plesiosaur.3": "",
-  "ff.sign.aquatic.golden_shark.0": "",
-  "ff.sign.aquatic.golden_shark.1": "Goldener Hai",
-  "ff.sign.aquatic.golden_shark.2": "",
-  "ff.sign.aquatic.golden_shark.3": "",
   "ff.sign.aquatic.ocean_depth_map.twilight_zone.0": "1.000 Blöcke",
   "ff.sign.aquatic.ocean_depth_map.twilight_zone.1": "",
   "ff.sign.aquatic.ocean_depth_map.twilight_zone.2": "Dämmerzone",
@@ -545,5 +541,9 @@
   "ff.lobby.sulfur_strikers.cyan_score": "Türkis: %s",
   "ff.lobby.sulfur_strikers.yellow_scored": "Gelb hat einen Punkt erzielt",
   "ff.lobby.sulfur_strikers.cyan_scored": "Türkis hat einen Punkt erzielt",
-  "ff.item.golden_t_rex_plushie": "Goldenes T-Rex-Plüschtier"
+  "ff.item.golden_t_rex_plushie": "Goldenes T-Rex-Plüschtier",
+  "ff.sign.aquatic.gold_shark.0": "",
+  "ff.sign.aquatic.gold_shark.1": "Goldener Hai",
+  "ff.sign.aquatic.gold_shark.2": "",
+  "ff.sign.aquatic.gold_shark.3": ""
 }
