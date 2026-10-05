@@ -1807,8 +1807,6 @@
   "ff.lootbook.category.rare.price": "($300–$500)",
   "ff.lootbook.category.heavy.name": "ТЯЖЁЛАЯ",
   "ff.lootbook.category.heavy.price": "($350–$850)",
-  "ff.lootbook.loot.portal_core.name": "Ядро древнего портала",
-  "ff.lootbook.loot.portal_core.description": "В Руинах тёмных глубин, за порталом.",
   "ff.lootbook.loot.ancient_scripture.name": "Древние писания",
   "ff.lootbook.loot.ancient_scripture.description": "2 этаж, выставка Людей, на витрине.",
   "ff.lootbook.loot.burger.name": "Бургеры",
@@ -1821,8 +1819,6 @@
   "ff.lootbook.loot.coffee.description": "Кофемашины в Кафе на 1 этаже или в Комнате персонала в Подвале.",
   "ff.lootbook.loot.fishing_rod.name": "Удочка",
   "ff.lootbook.loot.fishing_rod.description": "Руины, возле пруда.",
-  "ff.lootbook.loot.trilobite_fossil.name": "Окаменелый трилобит",
-  "ff.lootbook.loot.trilobite_fossil.description": "3 этаж, Фанерозой, на витрине.",
   "ff.lootbook.loot.ghast_plushie.name": "Плюшевый гаст",
   "ff.lootbook.loot.ghast_plushie.description": "1 этаж, Магазин сувениров, на выставочной витрине.",
   "ff.lootbook.loot.golden_sword.name": "Золотой меч",
@@ -1855,8 +1851,6 @@
   "ff.lootbook.loot.credit_reel.description": "1 этаж, Лестница, Кабинет Босса. Нужен ключ.",
   "ff.lootbook.loot.dry_ice.name": "Сухой лёд",
   "ff.lootbook.loot.dry_ice.description": "Находится на Подвальном складе. Нужен ключ.",
-  "ff.lootbook.loot.empty_popcorn.name": "Ведро для попкорна",
-  "ff.lootbook.loot.empty_popcorn.description": "Находится на Подвальном складе. Нужен ключ.",
   "ff.lootbook.loot.febreeze_rod.name": "Стержень освежителя для воздуха",
   "ff.lootbook.loot.febreeze_rod.description": "Находится на Подвальном складе. Нужен ключ.",
   "ff.lootbook.loot.fertilizer.name": "Удобрение",
@@ -2124,5 +2118,10 @@
   "ff.sign.aquatic.gold_shark.0": "",
   "ff.sign.aquatic.gold_shark.1": "Золотая акула",
   "ff.sign.aquatic.gold_shark.2": "",
-  "ff.sign.aquatic.gold_shark.3": ""
+  "ff.sign.aquatic.gold_shark.3": "",
+  "ff.lootbook.loot.empty_popcorn_bucket.description": "Находится на Подвальном складе. Нужен ключ.",
+  "ff.lootbook.loot.ancient_portal_core.name": "Ядро древнего портала",
+  "ff.lootbook.loot.ancient_portal_core.description": "В Руинах тёмных глубин, за порталом.",
+  "ff.lootbook.loot.fossilized_trilobite.name": "Окаменелый трилобит",
+  "ff.lootbook.loot.fossilized_trilobite.description": "3 этаж, Фанерозой, на витрине."
 }
