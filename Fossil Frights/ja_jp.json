@@ -1771,8 +1771,6 @@
   "ff.lootbook.category.rare.price": "($300–$500)",
   "ff.lootbook.category.heavy.name": "重い",
   "ff.lootbook.category.heavy.price": "($350–$850)",
-  "ff.lootbook.loot.portal_core.name": "古代のポータルコア",
-  "ff.lootbook.loot.portal_core.description": "ディープダークの遺跡、ポータルの横。",
   "ff.lootbook.loot.ancient_scripture.name": "古代の聖書",
   "ff.lootbook.loot.ancient_scripture.description": "2階 人間展示、展示ケース内。",
   "ff.lootbook.loot.burger.name": "ハンバーガー",
@@ -1785,8 +1783,6 @@
   "ff.lootbook.loot.coffee.description": "1階のカフェ、または地下のスタッフ休憩室のコーヒーマシン。",
   "ff.lootbook.loot.fishing_rod.name": "釣り竿",
   "ff.lootbook.loot.fishing_rod.description": "池のほとりの遺跡。",
-  "ff.lootbook.loot.trilobite_fossil.name": "三葉虫の化石",
-  "ff.lootbook.loot.trilobite_fossil.description": "3階 顕生代エリア、展示ケース内。",
   "ff.lootbook.loot.ghast_plushie.name": "ガストのぬいぐるみ",
   "ff.lootbook.loot.ghast_plushie.description": "1階 お土産屋、陳列棚。",
   "ff.lootbook.loot.golden_sword.name": "金の剣",
@@ -1819,8 +1815,6 @@
   "ff.lootbook.loot.credit_reel.description": "1階 階段室、ボスのオフィス。鍵が必要。",
   "ff.lootbook.loot.dry_ice.name": "ドライアイス",
   "ff.lootbook.loot.dry_ice.description": "地下の倉庫で見つかる。鍵が必要。",
-  "ff.lootbook.loot.empty_popcorn.name": "ポップコーン入りバケツ",
-  "ff.lootbook.loot.empty_popcorn.description": "地下の倉庫で見つかる。鍵が必要。",
   "ff.lootbook.loot.febreeze_rod.name": "ファブリーズロッド",
   "ff.lootbook.loot.febreeze_rod.description": "地下の倉庫で見つかる。鍵が必要。",
   "ff.lootbook.loot.fertilizer.name": "肥料",
@@ -2140,5 +2134,10 @@
   "ff.sign.aquatic.gold_shark.0": "",
   "ff.sign.aquatic.gold_shark.1": "金のサメ",
   "ff.sign.aquatic.gold_shark.2": "",
-  "ff.sign.aquatic.gold_shark.3": ""
+  "ff.sign.aquatic.gold_shark.3": "",
+  "ff.lootbook.loot.empty_popcorn_bucket.description": "地下の倉庫で見つかる。鍵が必要。",
+  "ff.lootbook.loot.ancient_portal_core.name": "古代のポータルコア",
+  "ff.lootbook.loot.ancient_portal_core.description": "ディープダークの遺跡、ポータルの横。",
+  "ff.lootbook.loot.fossilized_trilobite.name": "三葉虫の化石",
+  "ff.lootbook.loot.fossilized_trilobite.description": "3階 顕生代エリア、展示ケース内。"
 }
