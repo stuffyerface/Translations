@@ -804,7 +804,6 @@
   "ff.lootbook.category.rare.price": "($300-$500)",
   "ff.lootbook.category.heavy.name": "ZWAAR",
   "ff.lootbook.category.heavy.price": "($350-$850)",
-  "ff.lootbook.loot.portal_core.name": "Kern van het Eeuwenoude Portaal",
   "ff.lootbook.loot.ancient_scripture.name": "Antieke Tekst",
   "ff.lootbook.loot.burger.name": "Hamburgers",
   "ff.lootbook.loot.chocolate_cake.name": "Chocoladecake",
@@ -812,7 +811,6 @@
   "ff.lootbook.loot.coffee.name": "Koffie",
   "ff.lootbook.loot.fishing_rod.name": "Vishengel",
   "ff.lootbook.loot.fishing_rod.description": "Ruïnes, bij de vijver.",
-  "ff.lootbook.loot.trilobite_fossil.name": "Tribolietfossiel",
   "ff.lootbook.loot.ghast_plushie.name": "Ghastknuffel",
   "ff.lootbook.loot.golden_sword.name": "Gouden Zwaard",
   "ff.lootbook.loot.golden_sword.description": "Ruïnes, in de put.",
@@ -835,8 +833,6 @@
   "ff.lootbook.loot.credit_reel.name": "Filmrol",
   "ff.lootbook.loot.dry_ice.name": "Droog IJs",
   "ff.lootbook.loot.dry_ice.description": "In de Opslagplaats in de Kelder. Vereist een sleutel.",
-  "ff.lootbook.loot.empty_popcorn.name": "Popcornemmers",
-  "ff.lootbook.loot.empty_popcorn.description": "In de Opslagplaats in de Kelder. Vereist een sleutel.",
   "ff.lootbook.loot.febreeze_rod.name": "Febreezestaaf",
   "ff.lootbook.loot.febreeze_rod.description": "In de Opslagplaats in de Kelder. Vereist een sleutel.",
   "ff.lootbook.loot.fertilizer.name": "Mest",
@@ -912,5 +908,8 @@
   "ff.item.ancient_portal_core": "Kern van het Eeuwenoude Portaal",
   "ff.item.fossilized_trilobite": "Tribolietfossiel",
   "ff.item.empty_popcorn_bucket": "Lege Popcornemmer",
-  "ff.item.golden_t_rex_plushie": "Gouden T-Rex-Knuffel"
+  "ff.item.golden_t_rex_plushie": "Gouden T-Rex-Knuffel",
+  "ff.lootbook.loot.empty_popcorn_bucket.description": "In de Opslagplaats in de Kelder. Vereist een sleutel.",
+  "ff.lootbook.loot.ancient_portal_core.name": "Kern van het Eeuwenoude Portaal",
+  "ff.lootbook.loot.fossilized_trilobite.name": "Tribolietfossiel"
 }
