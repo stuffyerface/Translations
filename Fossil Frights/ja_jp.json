@@ -1006,10 +1006,6 @@
   "ff.sign.aquatic.nautilus_and_tube_dudes.1": "オウムガイと",
   "ff.sign.aquatic.nautilus_and_tube_dudes.2": "チューブワーム",
   "ff.sign.aquatic.nautilus_and_tube_dudes.3": "",
-  "ff.sign.aquatic.golden_shark.0": "",
-  "ff.sign.aquatic.golden_shark.1": "金のサメ",
-  "ff.sign.aquatic.golden_shark.2": "",
-  "ff.sign.aquatic.golden_shark.3": "",
   "ff.sign.aquatic.tide_pool_touch_tank.0": "",
   "ff.sign.aquatic.tide_pool_touch_tank.1": "潮だまり",
   "ff.sign.aquatic.tide_pool_touch_tank.2": "タッチタンク",
@@ -2140,5 +2136,9 @@
   "ff.item.ancient_portal_core": "古代のポータルのコア",
   "ff.item.fossilized_trilobite": "三葉虫の化石",
   "ff.item.empty_popcorn_bucket": "空のポップコーン入れ",
-  "ff.item.golden_t_rex_plushie": "金のティラノサウルスのぬいぐるみ"
+  "ff.item.golden_t_rex_plushie": "金のティラノサウルスのぬいぐるみ",
+  "ff.sign.aquatic.gold_shark.0": "",
+  "ff.sign.aquatic.gold_shark.1": "金のサメ",
+  "ff.sign.aquatic.gold_shark.2": "",
+  "ff.sign.aquatic.gold_shark.3": ""
 }
