@@ -348,9 +348,7 @@
   "ff.item.ancient_scripture": "Antieke Tekst",
   "ff.item.chondrite": "Chondriet",
   "ff.item.sand_dollar": "Zanddollar",
-  "ff.item.trilobite_fossil": "Tribolietfossiel",
   "ff.item.golden_sword": "Gouden Zwaard",
-  "ff.item.portal_core": "Kern van het Eeuwenoude Portaal",
   "ff.item.febreeze_rod": "Febreezestaaf",
   "ff.item.fertilizer": "Mest",
   "ff.item.water_balloon": "Waterballon",
@@ -364,7 +362,6 @@
   "ff.item.fish_food": "Vissenvoer",
   "ff.item.copper_shuffle": "Koperschuifel",
   "ff.item.instant_coffee": "Oploskoffie",
-  "ff.item.empty_popcorn": "Lege Popcornemmer",
   "ff.item.pink_jelly": "Roze Gelei",
   "ff.item.leather": "Leer",
   "ff.item.brush": "Borstel",
@@ -408,7 +405,6 @@
   "ff.item.vault": "Kluis",
   "ff.item.velociraptor_statue": "Velociraptor",
   "ff.item.microfiber_cloth": "Microvezeldoekje",
-  "ff.item.gold_t_rex_plushie": "Gouden T-Rex-Knuffel",
   "ff.item.plesiosaur_plushie": "Plesiosaurusknuffel",
   "ff.item.pterodactyl_plushie": "Pterodactylknuffel",
   "ff.item.sniffer_plushie": "Snuffelaarknuffel",
@@ -895,5 +891,9 @@
   "ff.plaques.1_bronto.label": "Bronto",
   "ff.plaques.1_bronto.title": "BRONTOSAURUS",
   "ff.plaques.1_t-rex.label": "T-Rex",
-  "ff.plaques.1_t-rex.title": "TYRANNOSAURUS REX"
+  "ff.plaques.1_t-rex.title": "TYRANNOSAURUS REX",
+  "ff.item.ancient_portal_core": "Kern van het Eeuwenoude Portaal",
+  "ff.item.fossilized_trilobite": "Tribolietfossiel",
+  "ff.item.empty_popcorn_bucket": "Lege Popcornemmer",
+  "ff.item.golden_t_rex_plushie": "Gouden T-Rex-Knuffel"
 }
