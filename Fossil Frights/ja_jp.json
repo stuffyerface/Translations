@@ -340,9 +340,7 @@
   "ff.item.ancient_scripture": "古代の聖書",
   "ff.item.chondrite": "コンドライト",
   "ff.item.sand_dollar": "タコノマクラ",
-  "ff.item.trilobite_fossil": "三葉虫の化石",
   "ff.item.golden_sword": "金の剣",
-  "ff.item.portal_core": "古代のポータルのコア",
   "ff.item.febreeze_rod": "ファブリーズロッド",
   "ff.item.fertilizer": "肥料",
   "ff.item.water_balloon": "水風船",
@@ -355,7 +353,6 @@
   "ff.item.skeleton_plushie": "スケルトンのぬいぐるみ",
   "ff.item.fish_food": "魚のエサ",
   "ff.item.instant_coffee": "インスタントコーヒー",
-  "ff.item.empty_popcorn": "空のポップコーン入れ",
   "ff.item.pink_jelly": "ピンクゼリー",
   "ff.item.leather": "革",
   "ff.item.brush": "ブラシ",
@@ -400,7 +397,6 @@
   "ff.item.vault": "金庫",
   "ff.item.velociraptor_statue": "ヴェロキラプトル",
   "ff.item.microfiber_cloth": "マイクロファイバーの布",
-  "ff.item.gold_t_rex_plushie": "金のティラノサウルスのぬいぐるみ",
   "ff.item.plesiosaur_plushie": "プレシオサウルスのぬいぐるみ",
   "ff.item.pterodactyl_plushie": "プテロダクティルのぬいぐるみ",
   "ff.item.sniffer_plushie": "スニッファーのぬいぐるみ",
@@ -2140,5 +2136,9 @@
   "ff.task_book.task.water_crops.description.0": "ジャングルの寺院の隣にあるトレイル遺跡の展示エリアで、作物に水をやってもらえるか？ 水風船を手に取って、作物に向かって投げてくれ。",
   "ff.actionbar.heists.loot_security.already_secured": "すでに保護されている",
   "ff.actionbar.heists.loot_security.in_progress": "警備員がすでに警備にあたっている...",
-  "ff.actionbar.task_book_reminder": "スタートの部屋からタスクの本を手に取ってください"
+  "ff.actionbar.task_book_reminder": "スタートの部屋からタスクの本を手に取ってください",
+  "ff.item.ancient_portal_core": "古代のポータルのコア",
+  "ff.item.fossilized_trilobite": "三葉虫の化石",
+  "ff.item.empty_popcorn_bucket": "空のポップコーン入れ",
+  "ff.item.golden_t_rex_plushie": "金のティラノサウルスのぬいぐるみ"
 }
