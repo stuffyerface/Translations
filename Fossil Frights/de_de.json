@@ -51,7 +51,6 @@
   "ff.messages.warning.cannot_leave_not_active": "Du kannst das Spiel nicht verlassen, weil du nicht der aktive Spieler bist.",
   "ff.messages.warning.cannot_spawn_while_active": "Du kannst /spawn jetzt nicht verwenden. Benutze /leave, um dein Spiel zu verlassen.",
   "ff.messages.warning.cannot_spectate_while_active": "Du kannst nicht zuschauen, während du der aktive Spieler bist.",
-  "ff.messages.warning.cannot_start_while_spectating": "Du kannst das Spiel nicht starten, während du zuschaust.",
   "ff.messages.warning.final_day_reached": "Tag 10 ist bereits der letzte Tag.",
   "ff.messages.warning.must_invite_before_starting_game": "Du musst einen Spieler einladen, bevor du das Spiel startest.",
   "ff.messages.warning.not_active_player": "Du bist nicht der aktive Spieler.",
@@ -178,7 +177,6 @@
   "ff.item.t_rex_skull": "T-Rex-Schädel",
   "ff.item.velociraptor_statue": "Velociraptor",
   "ff.item.microfiber_cloth": "Mikrofasertuch",
-  "ff.item.gold_t_rex_plushie": "Goldenes T-Rex-Plüschtier",
   "ff.item.plesiosaur_plushie": "Plesiosaurier-Plüschtier",
   "ff.item.pterodactyl_plushie": "Flugsaurier-Plüschtier",
   "ff.item.sniffer_plushie": "Schnüffler-Plüschtier",
@@ -401,10 +399,6 @@
   "ff.sign.aquatic.plesiosaur.1": "Plesiosaurier",
   "ff.sign.aquatic.plesiosaur.2": "",
   "ff.sign.aquatic.plesiosaur.3": "",
-  "ff.sign.aquatic.golden_shark.0": "",
-  "ff.sign.aquatic.golden_shark.1": "Goldener Hai",
-  "ff.sign.aquatic.golden_shark.2": "",
-  "ff.sign.aquatic.golden_shark.3": "",
   "ff.sign.aquatic.ocean_depth_map.twilight_zone.0": "1.000 Blöcke",
   "ff.sign.aquatic.ocean_depth_map.twilight_zone.1": "",
   "ff.sign.aquatic.ocean_depth_map.twilight_zone.2": "Dämmerzone",
@@ -546,5 +540,10 @@
   "ff.lobby.sulfur_strikers.yellow_score": "Gelb: %s",
   "ff.lobby.sulfur_strikers.cyan_score": "Türkis: %s",
   "ff.lobby.sulfur_strikers.yellow_scored": "Gelb hat einen Punkt erzielt",
-  "ff.lobby.sulfur_strikers.cyan_scored": "Türkis hat einen Punkt erzielt"
+  "ff.lobby.sulfur_strikers.cyan_scored": "Türkis hat einen Punkt erzielt",
+  "ff.item.golden_t_rex_plushie": "Goldenes T-Rex-Plüschtier",
+  "ff.sign.aquatic.gold_shark.0": "",
+  "ff.sign.aquatic.gold_shark.1": "Goldener Hai",
+  "ff.sign.aquatic.gold_shark.2": "",
+  "ff.sign.aquatic.gold_shark.3": ""
 }
