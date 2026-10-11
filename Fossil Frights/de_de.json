@@ -177,6 +177,7 @@
   "ff.item.t_rex_skull": "T-Rex-Schädel",
   "ff.item.velociraptor_statue": "Velociraptor",
   "ff.item.microfiber_cloth": "Mikrofasertuch",
+  "ff.item.golden_t_rex_plushie": "Goldenes T-Rex-Plüschtier",
   "ff.item.plesiosaur_plushie": "Plesiosaurier-Plüschtier",
   "ff.item.pterodactyl_plushie": "Flugsaurier-Plüschtier",
   "ff.item.sniffer_plushie": "Schnüffler-Plüschtier",
@@ -399,6 +400,10 @@
   "ff.sign.aquatic.plesiosaur.1": "Plesiosaurier",
   "ff.sign.aquatic.plesiosaur.2": "",
   "ff.sign.aquatic.plesiosaur.3": "",
+  "ff.sign.aquatic.gold_shark.0": "",
+  "ff.sign.aquatic.gold_shark.1": "Goldener Hai",
+  "ff.sign.aquatic.gold_shark.2": "",
+  "ff.sign.aquatic.gold_shark.3": "",
   "ff.sign.aquatic.ocean_depth_map.twilight_zone.0": "1.000 Blöcke",
   "ff.sign.aquatic.ocean_depth_map.twilight_zone.1": "",
   "ff.sign.aquatic.ocean_depth_map.twilight_zone.2": "Dämmerzone",
@@ -540,10 +545,5 @@
   "ff.lobby.sulfur_strikers.yellow_score": "Gelb: %s",
   "ff.lobby.sulfur_strikers.cyan_score": "Türkis: %s",
   "ff.lobby.sulfur_strikers.yellow_scored": "Gelb hat einen Punkt erzielt",
-  "ff.lobby.sulfur_strikers.cyan_scored": "Türkis hat einen Punkt erzielt",
-  "ff.item.golden_t_rex_plushie": "Goldenes T-Rex-Plüschtier",
-  "ff.sign.aquatic.gold_shark.0": "",
-  "ff.sign.aquatic.gold_shark.1": "Goldener Hai",
-  "ff.sign.aquatic.gold_shark.2": "",
-  "ff.sign.aquatic.gold_shark.3": ""
+  "ff.lobby.sulfur_strikers.cyan_scored": "Türkis hat einen Punkt erzielt"
 }
