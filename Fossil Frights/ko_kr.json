@@ -498,8 +498,6 @@
   "ff.button.heist_unready": "",
   "ff.boss": "보스",
   "ff.boss.hey": "<%1$s> 이봐 %2$s",
-  "ff.boss.title": "넌 해고야!",
-  "ff.boss.subtitle": "충분히 빠르지 않았음",
   "ff.museum_map_already_claimed": "이미 지도를 가지고 있습니다",
   "ff.museum_map.aquatic": "수생관",
   "ff.museum_map.aviary": "조류관",
