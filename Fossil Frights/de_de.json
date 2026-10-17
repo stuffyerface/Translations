@@ -229,8 +229,6 @@
   "ff.death.poisonous_glowberry": "%1$s hat eine giftige Leuchtbeere gegessen.",
   "ff.death.explosive_trap": "%1$s wurde von einer explosiven Falle in die Luft gesprengt",
   "ff.boss.hey": "<%1$s> Hey %2$s",
-  "ff.boss.title": "Du bist gefeuert!",
-  "ff.boss.subtitle": "Du warst nicht schnell genug",
   "ff.museum_map_already_claimed": "Du hast bereits eine Karte",
   "ff.museum_map.aviary": "Aviarium",
   "ff.museum_map.balcony": "Balkon",
